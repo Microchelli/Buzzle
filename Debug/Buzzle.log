@@ -1,0 +1,6 @@
+﻿  Buzzle.cpp
+C:\Users\Anya\OneDrive\A studying\Jelifiwka\Buzzle\Buzzle.cpp(538): warning C4715: CurrentWindow::click_window: значение возвращается не при всех путях выполнения
+C:\Users\Anya\OneDrive\A studying\Jelifiwka\Buzzle\Buzzle.cpp(589): warning C4715: Menu::SelectedButtonInCurrentWindow: значение возвращается не при всех путях выполнения
+C:\Users\Anya\OneDrive\A studying\Jelifiwka\Buzzle\Buzzle.cpp(636): warning C4715: LevelSelection::SelectedButtonInCurrentWindow: значение возвращается не при всех путях выполнения
+C:\Users\Anya\OneDrive\A studying\Jelifiwka\Buzzle\Buzzle.cpp(729): warning C4715: Gallery::SelectedButtonInCurrentWindow: значение возвращается не при всех путях выполнения
+  Buzzle.vcxproj -> C:\Users\Anya\OneDrive\A studying\Jelifiwka\Buzzle\Debug\Buzzle.exe
